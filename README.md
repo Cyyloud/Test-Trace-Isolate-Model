@@ -1,10 +1,10 @@
 # Test-Trace-Isolate-Model
 ## Overview
 This repository is for paper "Assessing the effectiveness of test-trace-isolate interventions using a multi-layered temporal network".
-## data
+## Data
 - networks:The full temporal school and workplace contact networks
 - population:The synthetic population
-## model
+## Model
 - model.h:The head file of the model
 - model.cpp:The main part of the model, where the simulation loop is executed
 - function.cpp:Define the functions used in the model
